@@ -1,0 +1,7 @@
+sklearn_crfsuite==0.3.6
+pandas==0.24.2
+tqdm==4.32.1
+nltk==3.4.4
+Unidecode==1.1.1
+numpy==1.16.4
+scikit_learn==0.24.2
