@@ -24,5 +24,3 @@ python3 tweetcorp.py
 
 Notes:
 - auth.txt file in 'scripts' may need to be updated using Twitter Developer account.
-- cache.alias differs from computer to computer. Don't forget to delete
-- 'json', 'pics', and 'pics_resized' are not essential, but used for experimental offline prediction 
